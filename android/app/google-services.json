@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "544242399604",
+    "project_id": "fin-wallet",
+    "storage_bucket": "fin-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544242399604:android:324fb92cdc9a12212d5421",
+        "android_client_info": {
+          "package_name": "com.arisesoft.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544242399604-5es3e38srirgepiftb578m8hbfpa843u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.finwallet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "544242399604-c93q697qt0p0p22f0aed2ln3onv73vrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXXO7aBOq-3zPujjg-Cy9bLrmIlL11Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544242399604-c93q697qt0p0p22f0aed2ln3onv73vrn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544242399604-j6da9qkt0gkumrpec1gfbijaa4k4h8n6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

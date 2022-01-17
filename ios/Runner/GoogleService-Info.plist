@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544242399604-j6da9qkt0gkumrpec1gfbijaa4k4h8n6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544242399604-j6da9qkt0gkumrpec1gfbijaa4k4h8n6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>544242399604-5es3e38srirgepiftb578m8hbfpa843u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdbFf1CnIp-7kvT3TMGSWoilDjoE5M3xg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544242399604</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.arisesoft.finwallet</string>
+	<key>PROJECT_ID</key>
+	<string>fin-wallet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fin-wallet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544242399604:ios:5d8e19d7a40104332d5421</string>
+</dict>
+</plist>
